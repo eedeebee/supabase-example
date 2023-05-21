@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="">
         <span className="text-sm">Powered by</span>
         <img src="logo.png" />
-        <span className="text-sm">for Notewize</span>
+        <span className="text-sm">&nbsp;for Notewize</span>
       </div>
       <div className="flex-end flex">
         <a
